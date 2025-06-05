@@ -1,1 +1,3 @@
-
+- 👋 Hi, I’m @PrendJ
+- 👀 I’m fulltime, full stack geek.
+- 🌱 I’m always looking for new opportunities
