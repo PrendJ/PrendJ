@@ -1,0 +1,13 @@
+{
+  "name": "prendj",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @PrendJ - 👀 I’m fulltime, full stack geek. - 🌱 I’m always looking for new opportunities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
